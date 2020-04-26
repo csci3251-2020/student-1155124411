@@ -35,7 +35,7 @@
 
 5. Pic  
 
-  ![1155124411_milestone2_code]("https://github.com/csci3251-2020/student-1155124411/ blob/master/1155124411_milestone2.jpeg")
+  ![1155124411_milestone2_code]("https://github.com/csci3251-2020/student-1155124411/blob/master/1155124411_milestone2.jpeg")
 
 ___  
 
